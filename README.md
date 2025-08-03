@@ -6,7 +6,7 @@
 **Status:** ✅ Completed  
 **License:** GPL-3.0
 
-🔗 **Project URL:** [https://github.com/AuditorDevansh/server-stats-analyzer](https://github.com/AuditorDevansh/server-stats-analyzer)
+🔗 **Project URL**: https://github.com/AuditorDevansh/server-stats-analyzer
 
 
 ---
