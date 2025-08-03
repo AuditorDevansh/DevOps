@@ -1,10 +1,12 @@
-# 🖥️ Server Stats Analyzer
+# 🖥️ Server Stats Analyzer 
 
 **Project Type:** Bash Script  
 **Domain:** DevOps, System Monitoring  
 **Author:** Devansh Mishra  
 **Status:** ✅ Completed  
 **License:** GPL-3.0
+
+[💻Project URL](https://github.com/AuditorDevansh/server-stats-analyzer) 
 
 ---
 
@@ -96,11 +98,7 @@ cd server-stats-analyzer
 
     📊 Integrate with Prometheus/Grafana for dashboard visualization
 
-    ⏱️ Automate via cron jobs for periodic monitoring
-
-###  📁 Project Repository: 
-
-[server-stats-analyzer](https://github.com/AuditorDevansh/server-stats-analyzer)
+    ⏱️ Automate via cron jobs for periodic monitoring 
 
 ## 📜 License
 
@@ -117,8 +115,8 @@ cd server-stats-analyzer
       🧠 Skills: Bash · Linux · Monitoring · Cloud · Security
   
       🔗 Portfolio: Coming Soon
-  
-      🐙 GitHub: [github.com/AuditorDevansh]
+  [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github)](https://github.com/AuditorDevansh/server-stats-analyzer)
+
       
   
    ## 🤝 Contributions
