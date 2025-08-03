@@ -4,7 +4,7 @@
 **Domain:** DevOps, System Monitoring  
 **Author:** Devansh Mishra  
 **Status:** ✅ Completed  
-**License:** MIT
+**License:** GPL-3.0
 
 ---
 
@@ -98,9 +98,13 @@ cd server-stats-analyzer
 
     ⏱️ Automate via cron jobs for periodic monitoring
 
+###  📁 Project Repository: 
+
+[server-stats-analyzer](https://github.com/AuditorDevansh/server-stats-analyzer)
+
 ## 📜 License
 
-   This project is licensed under the MIT License.
+   This project is licensed under the GPL-3.0 License.
 
 
 ## 🙋‍♂️ About Me
@@ -116,7 +120,6 @@ cd server-stats-analyzer
   
       🐙 GitHub: [github.com/AuditorDevansh]
       
-      📁 Project Repository: [server-stats-analyzer](https://github.com/AuditorDevansh/server-stats-analyzer)
   
    ## 🤝 Contributions
 
