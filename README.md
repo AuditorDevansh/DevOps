@@ -39,7 +39,7 @@ The script reports the following key system metrics:
 ### 1. Clone or Download the Script
 
 ```bash
-git clone https://github.com/your-username/server-stats-analyzer.git
+git clone https://github.com/AuditorDevansh/server-stats-analyzer.git
 cd server-stats-analyzer
 ```
 ## 2. Make the Script Executable
