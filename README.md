@@ -115,6 +115,8 @@ cd server-stats-analyzer
       🔗 Portfolio: Coming Soon
   
       🐙 GitHub: [github.com/AuditorDevansh]
+      
+      📁 Project Repository: [server-stats-analyzer](https://github.com/AuditorDevansh/server-stats-analyzer)
   
    ## 🤝 Contributions
 
